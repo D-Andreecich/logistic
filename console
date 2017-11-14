@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd laradockTest
+docker-compose exec workspace bash
+

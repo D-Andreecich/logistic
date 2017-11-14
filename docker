@@ -1,0 +1,6 @@
+#!/bin/bash
+
+
+cd laradockTest
+docker-compose up -d nginx php-fpm mysql workspace phpmyadmin php-worker
+
